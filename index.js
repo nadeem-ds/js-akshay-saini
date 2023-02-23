@@ -1,4 +1,4 @@
-getName3();
+getName();
 console.log(a);
 console.log(getName);
 
